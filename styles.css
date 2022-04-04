@@ -36,7 +36,7 @@ img {
   max-width: 100%;
 }
 hr {
-  border-color: var(--line-cl);
+  border: 1px solid var(--line-cl);
 }
 ul {
   display: flex;
